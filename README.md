@@ -35,6 +35,7 @@
 - [🎯 Feature Showcase](#-feature-showcase)
 - [📊 System Architecture](#-system-architecture)
 - [⚙️ Tech Stack](#️-tech-stack)
+- [📦 Dependencies](#-dependencies)
 - [📁 Project Structure](#-project-structure)
 - [🚀 Getting Started](#-getting-started)
 - [🤝 Contributing](#-contributing)
@@ -63,7 +64,7 @@
 - ⚡ **Performance First** - Optimized for high frame rates even with complex animations.
 
 ### Sections
-- 🏠 **Hero Section** - Impactful entrance with particle effects or dynamic typography.
+- 🏠 **Hero Section** - Impactful entrance with particle effects.
 - 💼 **Portfolio Showcase** - High-resolution presentation of creative projects.
 - 👥 **Team Reveal** - Interactive member profiles with hover effects.
 - 📊 **Company Expertise** - Detailed breakdown of services and technical skills.
@@ -79,7 +80,7 @@ The interface is designed to be responsive, intuitive, and visually stunning.
 ### 🏠 Visual & Interaction Highlights
 
 - **Creative Portfolio**: A visually engaging grid featuring top-tier projects with hover-state reveals.
-- **Video Reel**: Immersive high-definition video backgrounds for a grand cinematic experience.
+- **Video Reel**: Immersive high-definition video presentation for a grand cinematic experience.
 - **Expertise Showcase**: Dynamic presentation of core competencies and agency strengths.
 
 ---
@@ -144,6 +145,20 @@ sequenceDiagram
 
 ### Fonts
 - **Typography**: Funnel Display (via Google Fonts)
+
+---
+
+## 📦 Dependencies
+
+- **@studio-freight/lenis**: `^1.0.42`
+- **clsx**: `^2.1.1`
+- **framer-motion**: `^12.38.0`
+- **gsap**: `^3.14.2`
+- **lucide-react**: `^1.7.0`
+- **next**: `16.2.2`
+- **react**: `19.2.4`
+- **react-dom**: `19.2.4`
+- **tailwind-merge**: `^3.5.0`
 
 ---
 
