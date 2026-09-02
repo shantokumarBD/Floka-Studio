@@ -80,10 +80,7 @@ The interface is designed to be responsive, intuitive, and visually stunning.
 ### 🏠 Visual & Interaction Highlights
 | User Interface | Feature Details |
 | :---: | :--- |
-| <div align="center"><img src="./public/project%20floka.png" width="90%" /></div> | **Full Homepage Overview**<br><br>A premium, performance-optimized digital agency landing page featuring immersive animations, smooth scrolling, and a cutting-edge visual aesthetic. |
-| <div align="center"><img src="./public/portfolio-1.webp" width="90%" /></div> | **Creative Portfolio**<br><br>A visually engaging grid featuring top-tier projects with hover-state reveals. |
-| <div align="center"><img src="./public/video-banner-new.webp" width="90%" /></div> | **Video Reel**<br><br>Immersive high-definition video presentation for a grand cinematic experience. |
-| <div align="center"><img src="./public/expertise-1.webp" width="90%" /></div> | **Expertise Showcase**<br><br>Dynamic presentation of core competencies and agency strengths. |
+| <div align="center"><img src="./public/project_floka.png" width="90%" /></div> | **Full Homepage Overview**<br><br>A premium, performance-optimized digital agency landing page featuring immersive animations, smooth scrolling, and a cutting-edge visual aesthetic. |
 
 ---
 
